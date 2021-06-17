@@ -1,7 +1,7 @@
-# sls-auction-service
+# sls-auction-notification-service
 
 ## Description
-Notification service for [AUCTION SERVICE](https://github.com/fyupanquia/sls-auction-service)
+Auction notification service for [AUCTION SERVICE](https://github.com/fyupanquia/sls-auction-service)
 
 ## Template
 https://github.com/codingly-io/sls-base
